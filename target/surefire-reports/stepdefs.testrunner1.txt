@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: stepdefs.testrunner1
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 2, Errors: 0, Skipped: 7, Time elapsed: 21.496 sec <<< FAILURE!
+Then I should see the Dashboard(Scenario: login and create workflow)  Time elapsed: 0.003 sec  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<...T HAVE ANY WORKFLOWS[]]> but was:<...T HAVE ANY WORKFLOWS[]>
+
+Scenario: login and create workflow  Time elapsed: 0.003 sec  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<...T HAVE ANY WORKFLOWS[]]> but was:<...T HAVE ANY WORKFLOWS[]>
+
